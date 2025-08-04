@@ -16,8 +16,7 @@ Geoscience Australia.
 ## Contributors
 
 Contributors to this project are:
-- Brendan Jurd brendan.jurd@ga.gov.au
-- Sofiya Nguyen sofiya.nguyen@ga.gov.au
+
 
 ## Terms of Use
 
